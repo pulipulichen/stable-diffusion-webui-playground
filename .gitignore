@@ -1,0 +1,7 @@
+cache.json
+cache.json.lock
+screenshot.png
+*.bat
+output
+log
+tmp
